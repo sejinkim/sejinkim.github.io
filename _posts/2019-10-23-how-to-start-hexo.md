@@ -1,7 +1,7 @@
 ---
+layout: posts
 title: how-to-start-hexo
 date: 2019-10-23 14:33:00
-tags:
 ---
 
 # How to start Hexo
